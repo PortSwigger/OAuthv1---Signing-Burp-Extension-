@@ -2,8 +2,8 @@ Uuid: 4d50027dc8294ec58c659325b383378b
 ExtensionType: 2
 Name: OAuthv1 Authentication
 RepoName: oauthv1
-ScreenVersion: 1.0
-SerialVersion: 2
+ScreenVersion: 1.1
+SerialVersion: 3
 MinPlatformVersion: 0
 ProOnly: False
 Author: Sean McRae
